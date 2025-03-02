@@ -1,0 +1,78 @@
+[
+    {
+      "id": 1,
+      "penyanyi": "Aespa",
+      "judul": "Armageddon",
+      "genre": "Korean Pop, EDM",
+      "penulis": "Bang Hyehyun",
+      "tahun": "2024"
+    },
+    {
+      "id": 2,
+      "penyanyi": "Aespa",
+      "judul": "Supernova",
+      "genre": "Hyper Pop",
+      "penulis": "Kenzie",
+      "tahun": "2024"
+    },
+    {
+      "penyanyi": "Billie Eilish"
+    },
+    {
+      "id": 1,
+      "penyanyi": "Billie Eilish",
+      "judul": "Birds of a Feather",
+      "genre": "New Wave",
+      "penulis": "Billie Eilish",
+      "tahun": "2024"
+    },
+    {
+      "id": 2,
+      "penyanyi": "Billie Eilish",
+      "judul": "Wildflower",
+      "genre": "Indie",
+      "penulis": "Billie Eilish",
+      "tahun": "2024"
+    },
+    {
+      "penyanyi": "Mahalini"
+    },
+    {
+      "id": 1,
+      "penyanyi": "Mahalini",
+      "judul": "Mati-Matian",
+      "genre": "Indonesian Pop",
+      "penulis": "Mahalini Raharja & Andmesh Kamaleng",
+      "tahun": "2024"
+    },
+    {
+      "penyanyi": "Sal Priadi"
+    },
+    {
+      "id": 1,
+      "penyanyi": "Sal Priadi",
+      "judul": "Gala Bunga Matahari",
+      "genre": "Indonesian Pop",
+      "penulis": "Sal Priadi",
+      "tahun": "2024"
+    },
+    {
+      "penyanyi": "Bernadya"
+    },
+    {
+      "id": 1,
+      "penyanyi": "Bernadya",
+      "judul": "Satu Bulan",
+      "genre": "Indonesian Pop",
+      "penulis": "Bernadya Ribka",
+      "tahun": "2023"
+    },
+    {
+      "id": 2,
+      "penyanyi": "Bernadya",
+      "judul": "Kini Mereka Tahu",
+      "genre": "Indonesian Pop",
+      "penulis": "Bernadya Ribka",
+      "tahun": "2024"
+    }
+  ]
